@@ -8,6 +8,8 @@
 
 //変更g 
 
+//22222
+
 import UIKit
 
 class ViewController: UIViewController {
