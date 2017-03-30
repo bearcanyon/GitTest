@@ -6,7 +6,9 @@
 //  Copyright © 2017年 KumagaiNaoki. All rights reserved.
 //
 
-//変更
+//変更g 
+
+//22222
 
 import UIKit
 
