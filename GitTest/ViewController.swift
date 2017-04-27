@@ -12,6 +12,9 @@
 
 //プルリク
 
+//first
+//作業がさらに進んだ
+
 import UIKit
 
 class ViewController: UIViewController {
