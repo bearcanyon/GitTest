@@ -11,8 +11,6 @@
 //22222
 
 //プルリク
-
-//first
 //second
 
 import UIKit
